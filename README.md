@@ -51,3 +51,5 @@ While this implementation demonstrates the basic principles of the Diffie-Hellma
 - This implementation is inspired by the Diffie-Hellman key exchange protocol and its importance in modern cryptography.
 
 Feel free to explore and use this implementation for educational purposes or as a reference for integrating cryptographic protocols into your projects.
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=patricnilackshan.Diffie-Hellman-Key-Exchange-Implementation" />
