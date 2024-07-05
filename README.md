@@ -4,6 +4,8 @@ This repository contains a Python implementation of the Diffie-Hellman key excha
 
 ### Overview
 
+![Diffie-Hellman Explanation](Diffie-Hellman Explanation.png)
+
 The implementation uses a 2048-bit prime number and a base (generator) value to generate public and private keys for two parties, A and B. These keys are then used to establish a shared secret code, which can be used for secure communication or further cryptographic operations.
 
 ### Usage
